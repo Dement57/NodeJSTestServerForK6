@@ -13,4 +13,4 @@ npm install
 node index.js
 
 # Monitoring
-Go to http://localhost:4321/status to monitor server condition
+Go to http://localhost:4321/status to monitor the state of the server
